@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+The first version was fine while the second version wasn't.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+If you needed to revert to an old version for some reason, you wouldn't have
+to re-code that version. You could just swap back to that saved version.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically save, like Google
+Docs does?
+
+Manually choosing when to commit allows for logical checkpoints between commits
+The downside is that you must remember to do them. Automatically having
+version saved doesn't require you to remember to do it, but the versions will
+certainly end up being illogical at some point.
